@@ -7,4 +7,4 @@ tags:
   - Hugo
   - test
 ---
-![[kitagawa-tears.gif]]
+!![Image Description](/images/kitagawa-tears.gif)
