@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://parsamahmoodi.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me after fixing the blog</title>
+      <link>https://parsamahmoodi.netlify.app/posts/me-after-fixing-the-blog/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://parsamahmoodi.netlify.app/posts/me-after-fixing-the-blog/</guid>
+      <description>&lt;p&gt;![[kitagawa-tears.gif]]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ultimate Blog Setup</title>
       <link>https://parsamahmoodi.netlify.app/posts/first-post-using-hugo-&#43;-obsidian/</link>
@@ -21,13 +28,6 @@
       <description>&lt;h1 id=&#34;why-hugo--obsidian&#34;&gt;Why Hugo + Obsidian&lt;/h1&gt;
 &lt;p&gt;I have been wanting to create a blog for a long time and i even started using free WordPress but i knew that is not a solution i want.&lt;/p&gt;
 &lt;p&gt;I had heard of Hugo before from some random person i interacted with on linked in after finding their Hugo blog they were hosting in Netlify. but i was unsure how i am supposed to use it, or at least what is the best way to use Hugo that would be easiest and most efficient. Since i didn&amp;rsquo;t want to use a browser every time i want to write something; I wanted it to be seamless.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ultimate Blog Setup</title>
-      <link>https://parsamahmoodi.netlify.app/posts/untitled/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://parsamahmoodi.netlify.app/posts/untitled/</guid>
-      <description>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://parsamahmoodi.netlify.app/images/Pasted%20image%2020241210205916.png&#34;&gt;![[kitagawa-tears.gif]]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
