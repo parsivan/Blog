@@ -18,7 +18,7 @@ for filename in os.listdir(posts_dir):
         # Step 2: Find all image links in the format ![Image Description](/images/Pasted%20image%20...%20.png)
         # Step 2: Find all gif links in the format ![Image Description](/images/Pasted%20image%20...%20.gif)
         images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
-        images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
+        images = re.findall(r'\[\[([^]]*\.gif)\]\]', content)
         
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
