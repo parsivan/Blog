@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/blog/</loc>
+    <loc>https://parsamahmoodi.netlify.app/tags/blog/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://parsamahmoodi.netlify.app/tags/hugo/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://parsamahmoodi.netlify.app/tags/netlify/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/netlify/</loc>
+    <loc>https://parsamahmoodi.netlify.app/tags/network-chuck/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/network-chuck/</loc>
+    <loc>https://parsamahmoodi.netlify.app/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://parsamahmoodi.netlify.app/posts/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://parsamahmoodi.netlify.app/tags/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/first-post-using-hugo-&#43;-obsidian/</loc>
+    <loc>https://parsamahmoodi.netlify.app/posts/first-post-using-hugo-&#43;-obsidian/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/untitled/</loc>
+    <loc>https://parsamahmoodi.netlify.app/posts/untitled/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://parsamahmoodi.netlify.app/categories/</loc>
   </url>
 </urlset>
