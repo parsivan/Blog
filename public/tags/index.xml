@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Parsa Mahmoodi</title>
+    <link>https://parsamahmoodi.netlify.app/tags/</link>
+    <description>Recent content in Tags on Parsa Mahmoodi</description>
     <image>
-      <title>My New Hugo Site</title>
-      <url>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Parsa Mahmoodi</title>
+      <url>https://parsamahmoodi.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parsamahmoodi.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://parsamahmoodi.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://example.org/tags/blog/</link>
+      <link>https://parsamahmoodi.netlify.app/tags/blog/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/blog/</guid>
+      <guid>https://parsamahmoodi.netlify.app/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://example.org/tags/hugo/</link>
+      <link>https://parsamahmoodi.netlify.app/tags/hugo/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://parsamahmoodi.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>https://example.org/tags/netlify/</link>
+      <link>https://parsamahmoodi.netlify.app/tags/netlify/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/netlify/</guid>
+      <guid>https://parsamahmoodi.netlify.app/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Network-Chuck</title>
-      <link>https://example.org/tags/network-chuck/</link>
+      <link>https://parsamahmoodi.netlify.app/tags/network-chuck/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/network-chuck/</guid>
+      <guid>https://parsamahmoodi.netlify.app/tags/network-chuck/</guid>
       <description></description>
     </item>
   </channel>
