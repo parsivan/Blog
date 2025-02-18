@@ -29,3 +29,4 @@ The reason I started the blog is because i do a lot of Learning & Researching on
 This reminds me of that time where i wanted to start a moded minecraft server using mineos. The OS was tricky to use and was not straight forward for mod servers and I fixed it after 3-4 days of research and experimenting.  Then next year I wanted to start a server again but i didn't remembered what i did.
 
 Documenting your thoughts and actions saves the day. not only for you but maybe others as well.
+[GitHub](https://github.com/parsivan/Blog.git) Repo for my scripts and setup
