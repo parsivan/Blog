@@ -7,4 +7,5 @@ tags:
   - Hugo
   - test
 ---
-!![Image Description](/attachments/kitagawa-tears.gif)
+![Image Description](/attachments/kitagawa-tears.gif)
+all i had to do was to write my own url in the hugo.yml
