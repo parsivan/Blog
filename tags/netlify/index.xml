@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Netlify on Parsa Mahmoodi</title>
-    <link>https://parsamahmoodi.netlify.app/tags/netlify/</link>
+    <link>http://localhost:1313/tags/netlify/</link>
     <description>Recent content in Netlify on Parsa Mahmoodi</description>
     <image>
       <title>Parsa Mahmoodi</title>
-      <url>https://parsamahmoodi.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://parsamahmoodi.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.144.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://parsamahmoodi.netlify.app/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultimate Blog Setup</title>
-      <link>https://parsamahmoodi.netlify.app/posts/first-post-using-hugo-&#43;-obsidian/</link>
+      <link>http://localhost:1313/posts/first-post-using-hugo-&#43;-obsidian/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://parsamahmoodi.netlify.app/posts/first-post-using-hugo-&#43;-obsidian/</guid>
+      <guid>http://localhost:1313/posts/first-post-using-hugo-&#43;-obsidian/</guid>
       <description>&lt;h1 id=&#34;why-hugo--obsidian&#34;&gt;Why Hugo + Obsidian&lt;/h1&gt;
 &lt;p&gt;I have been wanting to create a blog for a long time and i even started using free WordPress but i knew that is not a solution i want.&lt;/p&gt;
 &lt;p&gt;I had heard of Hugo before from &lt;a href=&#34;https://linkedin.con/axelbock&#34;&gt;Axel Bock&lt;/a&gt;. I interacted with him on linked in after finding his Hugo blog. I didn&amp;rsquo;t know what Hugo is or how am I supposed to use it. I remembered my blog from my teenager days and i really didn&amp;rsquo;t like it. I also tried Blogger and WordPress. they are very limiting. It is very limiting that I have to do all the writing and editing in the website and even then that is not fun to do because you don&amp;rsquo;t get much freedom in making what you like.&lt;/p&gt;</description>
